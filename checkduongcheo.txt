@@ -1,0 +1,12 @@
+-2 -1  0  x + (m - CHECKSIZE + 0)
+MIN (x + m(min) + n(cur) - CHECKSIZE))
+MAX (x + m(max) + n(cur) - CHECKSIZE))
+
+
+
+
+-1  0 +1  x + (m - CHECKSIZE + 1)
+ 0 +1 +2  x + (m - CHECKSIZE + 2)
+CHECKSIZE = 3
+m = 1 : 3
+n = 0 : 2
